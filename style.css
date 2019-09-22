@@ -1,0 +1,24 @@
+.main-section{
+    margin: auto;
+    margin-top: 130px;
+    padding: 0px;
+}
+
+.modal-content{
+    background-color: #434e5a;
+    opacity: .8;
+    padding: 0 18px;
+    border-radius: 10px;
+}
+.form-group{
+    margin-bottom: 25px;
+}
+.btn-success{
+    background: #d405d4;
+    font-size: 19;
+    border-radius: 5px;
+}
+.texto{
+    text-align: justify;
+    text-indent: 20px; 
+}
